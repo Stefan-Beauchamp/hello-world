@@ -196,11 +196,11 @@
         <mxCell id="UD3JFhHezih0UCd4zbRy-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-5">
           <mxGeometry width="271.02272727272725" height="253.97014925373136" as="geometry" />
         </mxCell>
-        <mxCell id="UD3JFhHezih0UCd4zbRy-7" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;样本多样化&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-5">
+        <mxCell id="UD3JFhHezih0UCd4zbRy-7" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;特征多样化&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-5">
           <mxGeometry x="35.49107142857143" y="21.159643923240935" width="200.04058441558442" height="54.42217484008529" as="geometry" />
         </mxCell>
-        <mxCell id="UD3JFhHezih0UCd4zbRy-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;优化扰动策略&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-5">
-          <mxGeometry x="35.49107142857143" y="179.89098720682304" width="200.04058441558442" height="54.42217484008529" as="geometry" />
+        <mxCell id="UD3JFhHezih0UCd4zbRy-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;随机变化&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-5">
+          <mxGeometry x="35.49107142857143" y="182.89098720682304" width="200.04058441558442" height="54.42217484008529" as="geometry" />
         </mxCell>
         <mxCell id="UD3JFhHezih0UCd4zbRy-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="UD3JFhHezih0UCd4zbRy-5">
           <mxGeometry relative="1" as="geometry">
@@ -235,8 +235,8 @@
         <mxCell id="UD3JFhHezih0UCd4zbRy-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-16">
           <mxGeometry width="271.02272727272725" height="253.97014925373136" as="geometry" />
         </mxCell>
-        <mxCell id="UD3JFhHezih0UCd4zbRy-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;频域特性&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-16">
-          <mxGeometry x="35.49107142857143" y="179.89098720682304" width="200.04058441558442" height="54.42217484008529" as="geometry" />
+        <mxCell id="UD3JFhHezih0UCd4zbRy-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;分段性扰动&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UD3JFhHezih0UCd4zbRy-16">
+          <mxGeometry x="35.49107142857143" y="183.89098720682304" width="200.04058441558442" height="54.42217484008529" as="geometry" />
         </mxCell>
         <mxCell id="UD3JFhHezih0UCd4zbRy-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="UD3JFhHezih0UCd4zbRy-16">
           <mxGeometry relative="1" as="geometry">
