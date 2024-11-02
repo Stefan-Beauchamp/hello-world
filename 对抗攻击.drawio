@@ -274,7 +274,7 @@
         <mxCell id="VJwE6bIvEtcd7xlDYR7f-16" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;隐私&amp;amp;安全&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="492.1309523809524" y="368.5416666666667" width="124.73809523809526" height="26.875" as="geometry" />
         </mxCell>
-        <mxCell id="ufHna8ygfgUfg3xbLIG8-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fillColor=#FFCE9F;" vertex="1" parent="1">
+        <mxCell id="ufHna8ygfgUfg3xbLIG8-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fillColor=#FFCE9F;" parent="1" vertex="1">
           <mxGeometry x="674.5" y="315" width="113" height="70" as="geometry" />
         </mxCell>
       </root>
